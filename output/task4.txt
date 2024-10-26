@@ -1,0 +1,30 @@
+"Electronics"	{"AverageRevenue": 55679762.35600014, "Top3Products": [["Product_1003", "1003", 56602954.40000029], ["Product_1001", "1001", 55913956.70999983], ["Product_1005", "1005", 55552245.74000014]]}
+"Furniture"	{"AverageRevenue": 55017262.861999735, "Top3Products": [["Product_2002", "2002", 55344538.1199994], ["Product_2001", "2001", 55159470.62999996], ["Product_2004", "2004", 55008126.19999944]]}
+"Sports"	{"AverageRevenue": 55839541.23400003, "Top3Products": [["Product_4003", "4003", 56270220.38999969], ["Product_4002", "4002", 56087646.870000415], ["Product_4004", "4004", 56050235.54000004]]}
+"3001"	{"ProductCategory": "Clothing", "ProductName": "Product_3001", "TotalRevenue": 55387019.24000006, "AverageRevenue": 55387019.24000006}
+"3002"	{"ProductCategory": "Clothing", "ProductName": "Product_3002", "TotalRevenue": 55249435.46000012, "AverageRevenue": 55249435.46000012}
+"3003"	{"ProductCategory": "Clothing", "ProductName": "Product_3003", "TotalRevenue": 55369861.65000002, "AverageRevenue": 55369861.65000002}
+"3004"	{"ProductCategory": "Clothing", "ProductName": "Product_3004", "TotalRevenue": 55996349.90000058, "AverageRevenue": 55996349.90000058}
+"3005"	{"ProductCategory": "Clothing", "ProductName": "Product_3005", "TotalRevenue": 55790679.43999969, "AverageRevenue": 55790679.43999969}
+"4001"	{"ProductCategory": "Sports", "ProductName": "Product_4001", "TotalRevenue": 55581418.84000007, "AverageRevenue": 55581418.84000007}
+"4002"	{"ProductCategory": "Sports", "ProductName": "Product_4002", "TotalRevenue": 56087646.870000415, "AverageRevenue": 56087646.870000415}
+"4003"	{"ProductCategory": "Sports", "ProductName": "Product_4003", "TotalRevenue": 56270220.38999969, "AverageRevenue": 56270220.38999969}
+"4004"	{"ProductCategory": "Sports", "ProductName": "Product_4004", "TotalRevenue": 56050235.54000004, "AverageRevenue": 56050235.54000004}
+"4005"	{"ProductCategory": "Sports", "ProductName": "Product_4005", "TotalRevenue": 55208184.529999934, "AverageRevenue": 55208184.529999934}
+"5001"	{"ProductCategory": "Books", "ProductName": "Product_5001", "TotalRevenue": 55394657.769999675, "AverageRevenue": 55394657.769999675}
+"5002"	{"ProductCategory": "Books", "ProductName": "Product_5002", "TotalRevenue": 54562240.02000006, "AverageRevenue": 54562240.02000006}
+"5003"	{"ProductCategory": "Books", "ProductName": "Product_5003", "TotalRevenue": 55981489.98999962, "AverageRevenue": 55981489.98999962}
+"5004"	{"ProductCategory": "Books", "ProductName": "Product_5004", "TotalRevenue": 55666606.83000005, "AverageRevenue": 55666606.83000005}
+"5005"	{"ProductCategory": "Books", "ProductName": "Product_5005", "TotalRevenue": 55299036.510000244, "AverageRevenue": 55299036.510000244}
+"Books"	{"AverageRevenue": 55380806.22399993, "Top3Products": [["Product_5003", "5003", 55981489.98999962], ["Product_5004", "5004", 55666606.83000005], ["Product_5001", "5001", 55394657.769999675]]}
+"Clothing"	{"AverageRevenue": 55558669.13800009, "Top3Products": [["Product_3004", "3004", 55996349.90000058], ["Product_3005", "3005", 55790679.43999969], ["Product_3001", "3001", 55387019.24000006]]}
+"1001"	{"ProductCategory": "Electronics", "ProductName": "Product_1001", "TotalRevenue": 55913956.70999983, "AverageRevenue": 55913956.70999983}
+"1002"	{"ProductCategory": "Electronics", "ProductName": "Product_1002", "TotalRevenue": 55410066.130000144, "AverageRevenue": 55410066.130000144}
+"1003"	{"ProductCategory": "Electronics", "ProductName": "Product_1003", "TotalRevenue": 56602954.40000029, "AverageRevenue": 56602954.40000029}
+"1004"	{"ProductCategory": "Electronics", "ProductName": "Product_1004", "TotalRevenue": 54919588.80000028, "AverageRevenue": 54919588.80000028}
+"1005"	{"ProductCategory": "Electronics", "ProductName": "Product_1005", "TotalRevenue": 55552245.74000014, "AverageRevenue": 55552245.74000014}
+"2001"	{"ProductCategory": "Furniture", "ProductName": "Product_2001", "TotalRevenue": 55159470.62999996, "AverageRevenue": 55159470.62999996}
+"2002"	{"ProductCategory": "Furniture", "ProductName": "Product_2002", "TotalRevenue": 55344538.1199994, "AverageRevenue": 55344538.1199994}
+"2003"	{"ProductCategory": "Furniture", "ProductName": "Product_2003", "TotalRevenue": 54908701.08000002, "AverageRevenue": 54908701.08000002}
+"2004"	{"ProductCategory": "Furniture", "ProductName": "Product_2004", "TotalRevenue": 55008126.19999944, "AverageRevenue": 55008126.19999944}
+"2005"	{"ProductCategory": "Furniture", "ProductName": "Product_2005", "TotalRevenue": 54665478.27999988, "AverageRevenue": 54665478.27999988}
